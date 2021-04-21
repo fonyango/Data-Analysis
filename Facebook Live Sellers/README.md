@@ -13,6 +13,7 @@ __Work Flow__:
 - Data Wrangling - This section involves data cleaning and creation of new features.
 - Data Analysis - This section involves indepth analysis of the data and documentation of observations for each analysis.
 - Summary of Insights: 
+
   -_-- Video posts have the highest engagement rate._
   
   -_-- Status posts have more like rates than all of the post types._
@@ -24,7 +25,9 @@ __Work Flow__:
   -_-- A post that is loved or liked has a higher probability of being shared._
 
 - Limitations:
-- Two main limitations of this project are as follows:
 
-_-- It was not possible to tell te actual post that was done. For instance, it could be that more reactions were made on a photo/video of particular type of fashion or cosmetic product. Specific type of a product could have a bearing on the engagement rate of the post.
-_-- The data did not provide the variable for the retailers. This might have helped to understand whether a retailer had an influence on the engagement rates of their posts.
+Two main limitations of this project are as follows:
+
+  -_-- It was not possible to tell te actual post that was done. For instance, it could be that more reactions were made on a photo/video of particular type of fashion or cosmetic product. Specific type of a product could have a bearing on the engagement rate of the post._
+  
+  -_-- The data did not provide the variable for the retailers. This might have helped to understand whether a retailer had an influence on the engagement rates of their posts._
