@@ -14,6 +14,9 @@ __Work Flow__:
 - Data Analysis - This section involves indepth analysis of the data and documentation of observations for each analysis.
 - Summary of Insights: 
 
+![image](https://user-images.githubusercontent.com/39304423/115618195-06d44e00-a2fb-11eb-80cb-7524c9bd51e3.png)
+
+
   -_-- Video posts have the highest engagement rate._
   
   -_-- Status posts have more like rates than all of the post types._
