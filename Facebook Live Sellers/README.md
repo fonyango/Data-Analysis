@@ -13,6 +13,7 @@ __Work Flow__:
 - Data Wrangling - This section involves data cleaning and creation of new features.
 - Data Analysis - This section involves indepth analysis of the data and documentation of observations for each analysis.
 - Summary of Insights: 
+
 _-- Video posts have the highest engagement rate.
 _-- Status posts have more like rates than all of the post types.
 _-- Posts done in the evening have the highest reaction rates followed by posts done at night.
