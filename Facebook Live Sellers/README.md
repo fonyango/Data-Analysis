@@ -13,11 +13,11 @@ __Work Flow__:
 - Data Wrangling - This section involves data cleaning and creation of new features.
 - Data Analysis - This section involves indepth analysis of the data and documentation of observations for each analysis.
 - Summary of Insights: 
-- -- Video posts have the highest engagement rate.
-- -- Status posts have more like rates than all of the post types.
-- -- Posts done in the evening have the highest reaction rates followed by posts done at night.
-- -- Posts done during the weekends have a better reaction rates than posts done on weekdays.
-- -- A post that is loved or liked has a higher probability of being shared.
+-- Video posts have the highest engagement rate.
+-- Status posts have more like rates than all of the post types.
+-- Posts done in the evening have the highest reaction rates followed by posts done at night.
+-- Posts done during the weekends have a better reaction rates than posts done on weekdays.
+-- A post that is loved or liked has a higher probability of being shared.
 
 - Limitations:
 - Two main limitations of this project are as follows:
