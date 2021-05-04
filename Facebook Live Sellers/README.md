@@ -5,7 +5,7 @@ __Objective__: The objective of this project is to analyse and understand the tr
 
 __Motivation__: To understand how data analytics can be used to provide valuable insights in social media marketing.
 
-__Data Source__: https://archive.ics.uci.edu/ml/datasets/Facebook+Live+Sellers+in+Thailand#
+__Data Source__: [Data](https://archive.ics.uci.edu/ml/datasets/Facebook+Live+Sellers+in+Thailand#)
 
 __Work Flow__:
 
